@@ -147,7 +147,7 @@ GEM
     multi_json (1.14.1)
     mysql2 (0.5.2)
     nio4r (2.5.2)
-    nokogiri (1.10.4)
+    nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     orm_adapter (0.5.0)
     public_suffix (4.0.1)
@@ -252,7 +252,7 @@ DEPENDENCIES
   mini_magick
   minitest (= 5.12.2)
   mysql2 (>= 0.4.4, < 0.6.0)
-  nokogiri (= 1.10.4)
+  nokogiri (= 1.10.10)
   puma (~> 3.11)
   rails (~> 5.2.3)
   ruby_parser (= 3.14.0)
